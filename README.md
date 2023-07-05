@@ -2,8 +2,6 @@
 
 Modelo de Simulação de Bases de Dados Geo-replicadas Configurável
 
-<br/>
-
 ## Estrutura do Repositório
 
 Este repositório está dividido em 4 diretorias:
@@ -15,15 +13,11 @@ Este repositório está dividido em 4 diretorias:
 
 Além disso, o ficheiro `main.py` contém o código responsável por executar os modelos e apresentar os resultados e o ficheiro `requirements.txt` contém as dependências do programa
 
-<br/>
-
 ## Instalação de dependências
 
 Para instalar as dependências do modelo basta executar:
 
 `pip3 install -r requirements.txt`
-
-<br/>
 
 ## Execução do modelo
 
