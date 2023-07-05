@@ -1,0 +1,2 @@
+python3 ../main.py ../inputs/test1_dbsm.json ../inputs/test1_spanner.json ../results/test1.png
+python3 ../main.py ../inputs/test1_dbsm.json ../inputs/test1_spanner_nogeo.json ../results/test1_nogeo.png

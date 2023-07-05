@@ -1,0 +1,2 @@
+python3 ../main.py ../inputs/validation_5050_cache.json ../inputs/validation_5050_nocache.json ../results/validation_5050.png
+python3 ../main.py ../inputs/validation_5050_cache.json ../inputs/validation_9010_nocache.json ../results/validation_9010.png

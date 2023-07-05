@@ -1,0 +1,2 @@
+python3 ../main.py ../inputs/test2_spanner.json ../inputs/test2_wren.json ../results/test2.png
+python3 ../main.py ../inputs/test2_spanner_nopartition.json ../inputs/test2_wren_nopartition.json ../results/test2_nopartition.png
